@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:brand xmlns:ns2="app1">
+    <manufacturer>Bianchi</manufacturer>
+    <model>
+        <price>$19,000</price>
+        <frame>
+            <year>1990</year>
+            <material>Test</material>
+        </frame>
+    </model>
+    <model>
+        <price>$18,000</price>
+        <frame>
+            <year>1991</year>
+            <material>Testing</material>
+            <size>52</size>
+        </frame>
+        <fork>
+            <material>Let's see if this works!</material>
+        </fork>
+        <components>
+            <component>Headrest</component>
+            <component>Bikerest</component>
+        </components>
+        <rating>
+            <max>5.0</max>
+            <current>3.49</current>
+            <votes>39.0</votes>
+        </rating>
+    </model>
+</ns2:brand>
